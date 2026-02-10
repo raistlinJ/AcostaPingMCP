@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ping": {
+      "command": "/Users/jcacosta/miniforge3/envs/AcostaMCP/bin/python",
+      "args": ["/Users/jcacosta/Documents/GitHub/AcostaPingMCP/server.py"]
+    }
+  }
+}
