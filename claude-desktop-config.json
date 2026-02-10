@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "ping": {
-      "command": "/Users/jcacosta/AcostaPingMCP/.venv/bin/python",
+      "command": "/Users/jcacosta/Documents/GitHub/AcostaPingMCP/.venv/bin/python",
       "args": ["/Users/jcacosta/AcostaPingMCP/server.py"]
     }
   }
